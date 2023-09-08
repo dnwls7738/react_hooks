@@ -1,0 +1,25 @@
+#header {
+  width: 100%;
+  align-items: center;
+}
+.header__logo {
+  text-align: center;
+  a {
+    font-size: 2rem;
+    text-decoration: none;
+    color: #0060b6;
+  }
+}
+.header__menu {
+  ul {
+    li {
+      display: inline;
+      padding-right: 1rem;
+      a {
+        font-size: 1rem;
+        text-decoration: none;
+        color: #0060b6;
+      }
+    }
+  }
+}
